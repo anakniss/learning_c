@@ -1,3 +1,5 @@
+/*Fazer um algoritmo que leia dez números inteiros e para cada número lido escreva o respectivo quadrado*/
+
 #include <stdio.h>
 
 int main() {

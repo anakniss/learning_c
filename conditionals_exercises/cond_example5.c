@@ -1,3 +1,6 @@
+/*Fazer um algoritmo que leia um número (considere números de 5 dígitos). Escreva quantos algarismos deste
+número são ímpares e também a soma dos algarismos pares.*/
+
 #include <stdio.h>
 
 int main() {

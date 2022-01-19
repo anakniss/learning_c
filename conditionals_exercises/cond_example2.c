@@ -1,3 +1,7 @@
+/*Um professor resolveu considerar, para cálculo da média aritmética final do semestre, somente as três
+maiores notas das quatro provas realizadas pelos alunos.Para auxiliá - lo, deve - se fazer um algoritmo que leia as
+quatro notas de um aluno e escreva a média aritmética considerando apenas as suas três maiores notas.*/
+
 #include <stdio.h>
 
 int main() {

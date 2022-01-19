@@ -1,3 +1,11 @@
+/*Fazer um algoritmo que leia três notas(números com casas decimais) de um aluno e a quantidade de faltas
+(número inteiro) escrevendo o conceito(número inteiro) deste aluno.O algoritmo deverá calcular a média
+aritmética das notas e determinar o conceito a partir da tabela abaixo.Além disto, o aluno, para ser aprovado,
+deverá ter no máximo cinco faltas, caso contrário o conceito será zero.*/
+
+
+
+
 #include <stdio.h>
 
 int main() {

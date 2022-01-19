@@ -1,3 +1,5 @@
+/*Fazer um algoritmo que leia um número inteiro N e escreva os N primeiros números inteiros positivos.*/
+
 #include <stdio.h>
 
 int main() {

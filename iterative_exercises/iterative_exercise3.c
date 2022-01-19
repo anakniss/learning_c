@@ -1,3 +1,6 @@
+/*Fazer um algoritmo que leia três notas para cada um dos vinte alunos de uma turma e escreva a média
+aritmética de cada aluno.*/
+
 #include <stdio.h>
 
 int main() {
@@ -5,7 +8,7 @@ int main() {
 
 	nota1 = 0;
 
-	for (i = 0; i < 3; i++) {
+	for (i = 0; i < 20; i++) {
 		printf("Digite a nota: ");
 		scanf_s("%f", &nota);
 

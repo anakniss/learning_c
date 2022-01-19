@@ -1,3 +1,6 @@
+/*Fazer um algoritmo que leia um número inteiro (para facilitar considere-o no intervalo de 1 a 399) e o
+escreva em algarismos romanos: I V X L C D M . Exemplo lê: 146 escreve: CXLVI*/
+
 #include <stdio.h>
 
 int main() {

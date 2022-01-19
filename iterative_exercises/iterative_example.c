@@ -1,3 +1,5 @@
+/*Exemplo geral*/
+
 #include <stdio.h>
 
 int main() {
