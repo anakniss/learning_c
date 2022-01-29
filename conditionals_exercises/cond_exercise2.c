@@ -32,7 +32,7 @@ int main() {
 		menor_nota = nota4;
 	}
 
-	media = (nota1 + nota2 + nota3 - menor_nota)/3;
+	media = (nota1 + nota2 + nota3 + nota4 - menor_nota)/3;
 
 	printf("A menor nota é: %f \n", menor_nota);
 

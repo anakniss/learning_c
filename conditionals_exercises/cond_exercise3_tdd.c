@@ -3,7 +3,7 @@
 float calcular_imc(float peso, float altura) {
 	float imc;
 	if (altura == 0) {
-		return 0;
+		return 0;            
 	}
 	imc = peso / (altura * altura);
 	return imc;
