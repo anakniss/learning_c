@@ -1,4 +1,4 @@
-﻿/*Fazer um algoritmo que leia cem números reais armazenando-os em um vetor. Após desloque todos os
+﻿/*Fazer um algoritmo que leia 10 números reais armazenando-os em um vetor. Após desloque todos os
 elementos deste vetor uma posição a esquerda, colocando na última posição o elemento que estava na primeira.
 Repetir isso até que o maior elemento do vetor fique na primeira posição do mesmo. Ex (com seis elementos):
 */
