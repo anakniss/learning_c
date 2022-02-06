@@ -16,8 +16,6 @@ int main() {
 
 	}
 
-	
-
     for (i3 = 0; i3 < 9; i3++){
 
 		i2 = nums[0];
