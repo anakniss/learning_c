@@ -1,4 +1,4 @@
-/* 1) Faça um algoritmo que leia 10 números e escreva na ordem inversa. */
+/* 1)  Faça um algoritmo que leia 10 números e escreva na ordem inversa. */
 
 #include <stdio.h>
 
