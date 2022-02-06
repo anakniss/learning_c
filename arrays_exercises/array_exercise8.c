@@ -1,7 +1,7 @@
 ﻿/*Fazer um algoritmo que armazene em um vetor os quarenta primeiros números da série de Fibonacci e após
 escreva os elementos deste vetor.*/
 
-/*Fazer um algoritmo que armazene em um vetor os quarenta primeiros números da série de Fibonacci e após
+/*8)Fazer um algoritmo que armazene em um vetor os quarenta primeiros números da série de Fibonacci e após
 escreva os elementos deste vetor*/
 
 #include <stdio.h>
