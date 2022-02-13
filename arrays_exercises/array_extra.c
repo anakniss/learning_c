@@ -1,5 +1,4 @@
-﻿/*Fazer um algoritmo que leia uma quantidade indeterminada de números até que sejam informados dez
-números distintos e escreva esses dez números.*/
+﻿/* Extra) Fazer um algoritmo que leia 10 número, depois leia uma quantidade indeterminada de números e diga se esses números constam na lista ou não.*/
 
 #include <stdio.h>
 
@@ -35,6 +34,8 @@ int main() {
 
 			}
 		}
+		\
+
 
 		if (encontrei == 1){
 
